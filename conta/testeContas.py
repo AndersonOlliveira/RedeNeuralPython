@@ -11,4 +11,5 @@ contaA = Conta([clienteA,clienteB],1,2000)
 contaA.deposita(1400)
 contaA.sacar(500)
 # contaA.gerarsaldo()
-contaA.extrato.transacoes(contaA.numero)
+contaA.gerar_extrato()
+
