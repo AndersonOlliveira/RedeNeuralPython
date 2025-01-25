@@ -5,6 +5,7 @@ class Conta:
         self.numero = numero
         self.clientes = clientes
         self.saldo = saldo
+      #  self.limite = limite
         self.dataabertura = datetime.datetime.today()
         self.extrato = Extrato()
 
