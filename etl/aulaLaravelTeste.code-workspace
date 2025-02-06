@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../xampp/htdocs/aulaLaravelTeste"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/primeiraAulaLaravel"
+		},
+		{
+			"path": "../../../../testeRequisoes"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/AulaRequisao"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/aulaCelje"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/visumOs"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

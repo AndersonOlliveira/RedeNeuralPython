@@ -1,0 +1,15 @@
+@RELATION bichinho
+
+@ATTRIBUTE fofinho numeric
+@ATTRIBUTE orelinha numeric
+@ATTRIBUTE miau numeric
+@ATTRIBUTE classe {gato,cahorro}
+
+@DATA
+1,1,1,?
+1,0,1,?
+0,1,1,?
+1,1,0,?
+0,1,0,?
+1,1,0,?
+
